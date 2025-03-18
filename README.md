@@ -33,4 +33,6 @@ For the futur updates of the tool, I have planned :
 - Make it more "responsive" so you can work with all kind of screen resolution
 - Rearrange some spaces
 - Allow it to quick export the data in a .md inside the clipboard for quick send between team/N+1/...
-- Make an export to docx button, as docx are the most used document format when it comes to reporting, and the yusually have all thoses "Graphic Charts", ..., being able to import the notes inside of a template would greatly accelerate the reporting of the tool. 
+- Make an export to docx button, as docx are the most used document format when it comes to reporting, and the yusually have all thoses "Graphic Charts", ..., being able to import the notes inside of a template would greatly accelerate the reporting of the tool.
+- Change the widget type of Technical Analysis and Remediation into a table like the one for IOC and affected systems
+- Add a playbook following guide and best practice for specific uses cases (Phishing, ...) that is customizable by the user in the config files
