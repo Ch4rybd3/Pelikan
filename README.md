@@ -1,6 +1,6 @@
 # Pelikan
 Pelikan is a tool that aim at making the reporting of security incident easy
-![Pelikan_Interface](Assets/{75DBBE8E-6501-4E54-B905-A4B21900384A}.png)
+![Pelikan_Interface](Assets/Pelikan_Sample.png)
 
 # Installation
 You just have to launch the exe as it is portable.
@@ -23,6 +23,8 @@ The right part is where the magic really is :
 - A type recognition algo, you just put the string in it and it guess what it is
 - A logging function, so you know the exact time you registered an IOC/Affected System and so, the exact time of identification of the IOC by your team
 - a space to log screenshots, rename them and store them.
+
+There is a config file name config.py that contains some variables that you can adjust like the default folder for creating an incident, ...
 
 All theses things are just open door to what you can do with them.
 

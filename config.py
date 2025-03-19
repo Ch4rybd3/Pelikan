@@ -1,0 +1,5 @@
+root_Frame_Size_Length = "1200"
+root_Frame_Size_Heigth = "1200"
+left_Frame_Size_Length = "600"
+right_Frame_Size_Length = "600"
+incident_FolderPath = "C:\\Users\\fsali\\Documents\\Incidents\\"
